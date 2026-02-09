@@ -1,2 +1,2 @@
 # Assignment-02---
-This is demo repo
+This is practice repositori
